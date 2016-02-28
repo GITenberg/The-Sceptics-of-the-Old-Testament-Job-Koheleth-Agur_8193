@@ -1,0 +1,27 @@
+_repo: The-Sceptics-of-the-Old-Testament-Job-Koheleth-Agur_8193
+creator:
+  author:
+    agent_name: Dillon, Emile Joseph
+    aliases:
+    - Lanin, E. B.
+    - Dillon, E. J. (Emile Joseph)
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '2691'
+    url: http://www.gutenberg.org/2009/agents/2691
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Proverbs -- Criticism, interpretation, etc.'
+- !lcsh 'Bible. Ecclesiastes -- Criticism, interpretation, etc.'
+- !lcsh 'Bible. Job -- Criticism, interpretation, etc.'
+title: 'The Sceptics of the Old Testament: Job - Koheleth - Agur'
+url: http://www.gutenberg.org/ebooks/8193
